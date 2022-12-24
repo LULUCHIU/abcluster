@@ -30,7 +30,9 @@ known CDR1, CD2, CD3 in VH region
 
 ##### Step3. Modify the parameter of Identity, default is 0.7
 
-<img src="./pic/parameter.png" width="350" /> ##### Step4. Hit “Run
+<img src="./pic/parameter.png" width="350" /> 
+
+##### Step4. Hit “Run
 Ananlysis” Button
 
 ##### Step5. Wait for result and hit the “Download” button to get your result
