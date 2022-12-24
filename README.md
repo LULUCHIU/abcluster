@@ -32,8 +32,7 @@ known CDR1, CD2, CD3 in VH region
 
 <img src="./pic/parameter.png" width="350" /> 
 
-##### Step4. Hit “Run
-Ananlysis” Button
+##### Step4. Hit “Run Ananlysis” Button
 
 ##### Step5. Wait for result and hit the “Download” button to get your result
 
